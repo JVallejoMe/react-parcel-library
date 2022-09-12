@@ -1,1 +1,1 @@
-export { Button } from "./Button";
+export { Table, Detail } from "./Monsters";
